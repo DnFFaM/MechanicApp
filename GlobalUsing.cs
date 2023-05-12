@@ -1,0 +1,1 @@
+﻿global using ØvelseCase2.Codes;
